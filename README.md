@@ -16,5 +16,5 @@ Esse aplicativo calcula a dimens√£o da sapata corrida, quadrada, circular e ret√
 <p float="left">
 <img src="https://github.com/ClaitonGit/TerzaApp/assets/55120068/5f570f99-b673-484d-8738-982dc5e98208" alt="drawing" width="200"/>
 <img src="https://github.com/ClaitonGit/TerzaApp/assets/55120068/22ae6f7c-dea1-4414-a701-2a4d9793a7fd" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/55120068/284066129-545f905d-dfc4-4b2e-bbdb-1eb739bc6261.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/ClaitonGit/TerzaApp/assets/55120068/8d7a5760-8746-43fa-a1d5-5659e299aac6" alt="drawing" width="200"/>
 <p>
