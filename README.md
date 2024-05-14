@@ -1,5 +1,5 @@
 <h1 align="center">
-    <br>App de calcular a dimensão da sapata com Flutter<br/>
+    <br>App para calcular a dimensão da sapata com Flutter<br/>
 </h1>
 
 ## :bookmark: Sobre o Projeto
